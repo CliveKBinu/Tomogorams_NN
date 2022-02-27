@@ -1,7 +1,7 @@
 # Tomogorams_NN
 ## New version (https://github.com/CliveKBinu/Tomogram-3D-recon-module)
 
-###Classification model (Tomogram_CNN.ipynb and Tomogram_CNN_auto_focus.ipynb)
+###Classification model (Tomogram_CNN.ipynb and Tomogram_CNN_auto_focus.ipynb)###
   - Change the dir in train data_set and val_datatset to the location in your system
   - if you are running in a system with no gpu, make sure to run the model with epoch = 1 (default=10)
   - Make sure to change the dir of the predictImage and direc to the Test images files in your local system.
